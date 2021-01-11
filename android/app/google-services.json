@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "732849576767",
+    "project_id": "appleskool-84bac",
+    "storage_bucket": "appleskool-84bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732849576767:android:4b2e85b410e933c27f518a",
+        "android_client_info": {
+          "package_name": "com.appleskool.appleskool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732849576767-m3an66ic2kr8eesbg2s6vn12plvrvo93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appleskool.appleskool",
+            "certificate_hash": "29fe9ad7e0a4f8be6d3179eb60a2827897ea5ad5"
+          }
+        },
+        {
+          "client_id": "732849576767-hn0j500r2uf266rnp4ae77i8drt44kql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjiiC2eRvihjG97h9hmgfpWoVpRMhobk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732849576767-hn0j500r2uf266rnp4ae77i8drt44kql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
